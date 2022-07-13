@@ -12,7 +12,7 @@ using System.Runtime.InteropServices;
 
 //There are a few distinctions that need to be clarified for this code:
 //Departments = Sales, Devs and Backoffice.
-//Teams = Box Web, Mobile, Spain, Sweden, HR etc...
+//Teams = Mobile, Linux, Windows, etc.
 //A Department contains multiple Teams
 //This code assumes that each Team is unique to a Department.
 
